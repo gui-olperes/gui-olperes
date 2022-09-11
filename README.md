@@ -3,7 +3,7 @@
 - Full stack aspiring;
 - #DevOps.
 
-<div align="center">
+<div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-olperes&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-olperes&layout=compact&langs_count=7&theme=panda"/>
@@ -28,5 +28,5 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>
-<br />
-<img  alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/202507545/original.gif">
+
+
