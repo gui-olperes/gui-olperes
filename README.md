@@ -2,7 +2,7 @@
 - Programming student;
 - Full stack aspiring;
 - #DevOps.
-- https://mylinks-react.vercel.app/
+- Meus links: https://mylinks-react.vercel.app/
 
 <div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
