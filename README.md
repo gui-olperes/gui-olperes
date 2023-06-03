@@ -1,7 +1,4 @@
 ## Hello! My name is `Guilherme Peres` 👋
-- Programming student;
-- Full stack aspiring;
-- #DevOps.
 
 <div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
