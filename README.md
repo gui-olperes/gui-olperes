@@ -11,10 +11,7 @@
 
  ![Texto Alternativo](https://media.giphy.com/media/l0K4paQ20lNxrZbXy/giphy.gif)
 
-[Ver GIF no Giphy](https://giphy.com/gifs/vhs-positive-vhspositive-l0K4paQ20lNxrZbXy)
 
- 
- <br>
 <div> 
   <a href="https://instagram.com/guiiol_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.peres061103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
