@@ -1,20 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F46B6FF&height=120&section=header"/>
 
-## Hello! My name is `Guilherme Peres` 👋
 
 <div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46B6&width=435&lines=HELLO%2C+My+name+is+Guilherme+Peres;I'm+from+Brazil;I'm+a+Python+full+stack+develope)](https://git.io/typing-svg)
   
   ##
  
@@ -26,3 +17,4 @@
 </div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F46B6FF&height=120&section=footer"/>
