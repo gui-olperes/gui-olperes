@@ -9,7 +9,10 @@
   
   ##
 
- <iframe src="https://giphy.com/embed/l0K4paQ20lNxrZbXy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vhs-positive-vhspositive-l0K4paQ20lNxrZbXy">via GIPHY</a></p>
+ ![Texto Alternativo](https://media.giphy.com/media/l0K4paQ20lNxrZbXy/giphy.gif)
+
+[Ver GIF no Giphy](https://giphy.com/gifs/vhs-positive-vhspositive-l0K4paQ20lNxrZbXy)
+
  
  <br>
 <div> 
