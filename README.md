@@ -5,7 +5,7 @@
   <a href="https://github.com/gui-olperes">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46B6&width=435&lines=HELLO%2C+My+name+is+Guilherme+Peres;I'm+from+Brazil;I'm+a+Python+full+stack+develope)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4F46B6&width=435&lines=HELLO%2C+My+name+is+Guilherme+Peres;I'm+from+Brazil;I'm+a+Python+full+stack+developer)](https://git.io/typing-svg)
   
   ##
  
