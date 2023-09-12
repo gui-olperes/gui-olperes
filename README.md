@@ -2,7 +2,6 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-olperes&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-olperes&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
