@@ -7,13 +7,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4F46B6&width=435&lines=HELLO%2C+My+name+is+Guilherme+Peres;I'm+from+Brazil;I'm+a+Python+full+stack+developer)](https://git.io/typing-svg)
   
-  ##
+
 
  ![Texto Alternativo](https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif)
 
 
 
-##
 <div> 
   <a href="https://instagram.com/guiiol_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilherme.peres061103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
