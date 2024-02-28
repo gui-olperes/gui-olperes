@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F46B6FF&height=120&section=header"/>
-
 
 <div align="center" display="inline-block">
   <a href="https://github.com/gui-olperes">
