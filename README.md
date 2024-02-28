@@ -9,8 +9,6 @@
   
 ##
 
- ![Texto Alternativo](https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif)
-
 
 <br>
 <div> 
